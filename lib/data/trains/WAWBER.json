@@ -1,0 +1,82 @@
+[
+    {
+        "name": "DB",
+        "departure_at": "2019-07-27 05:35",
+        "arrival_at": "2019-07-27 11:16" ,
+        "price": "63",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-27 05:24",
+        "arrival_at": "2019-07-27 11:16" ,
+        "price": "63",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-28 05:35",
+        "arrival_at": "2019-07-28 11:16" ,
+        "price": "51",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-28 12:25",
+        "arrival_at": "2019-07-28 18:16" ,
+        "price": "52",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-29 16:25",
+        "arrival_at": "2019-07-29 22:16" ,
+        "price": "52",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-29 05:35",
+        "arrival_at": "2019-07-29 11:16" ,
+        "price": "51",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-29 12:25",
+        "arrival_at": "2019-07-29 18:16" ,
+        "price": "52",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-30 05:35",
+        "arrival_at": "2019-07-30 11:16" ,
+        "price": "51",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-30 12:25",
+        "arrival_at": "2019-07-30 18:16" ,
+        "price": "52",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "DB",
+        "departure_at": "2019-07-30 16:25",
+        "arrival_at": "2019-07-30 22:16" ,
+        "price": "52",
+        "origin": "WAW",
+        "destination": "BER"
+    }
+]

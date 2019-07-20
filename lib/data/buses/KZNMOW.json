@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-27 19:00",
+        "arrival_at": "2019-07-28 08:00" ,
+        "price": "36",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-27 16:15",
+        "arrival_at": "2019-07-28 07:00" ,
+        "price": "35",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-28 19:00",
+        "arrival_at": "2019-07-29 08:00" ,
+        "price": "36",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-28 18:00",
+        "arrival_at": "2019-07-29 07:00" ,
+        "price": "30",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-29 19:00",
+        "arrival_at": "2019-07-30 08:00" ,
+        "price": "36",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-29 16:15",
+        "arrival_at": "2019-07-30 07:00" ,
+        "price": "35",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-30 19:00",
+        "arrival_at": "2019-07-31 08:00" ,
+        "price": "36",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Busfor",
+        "departure_at": "2019-07-30 16:15",
+        "arrival_at": "2019-07-31 07:00" ,
+        "price": "35",
+        "origin": "KZN",
+        "destination": "MOW"
+    }
+]

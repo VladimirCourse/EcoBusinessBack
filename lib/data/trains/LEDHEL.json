@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Lev Tolstoy",
+        "departure_at": "2019-07-27 06:01",
+        "arrival_at": "2019-07-27 13:30" ,
+        "price": "80",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-27 06:40",
+        "arrival_at": "2019-07-27 10:07" ,
+        "price": "65",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-27 11:30",
+        "arrival_at": "2019-07-27 14:57" ,
+        "price": "85",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Lev Tolstoy",
+        "departure_at": "2019-07-28 06:01",
+        "arrival_at": "2019-07-28 13:30" ,
+        "price": "80",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-28 06:40",
+        "arrival_at": "2019-07-28 10:07" ,
+        "price": "65",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-28 15:30",
+        "arrival_at": "2019-07-28 18:57" ,
+        "price": "85",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Lev Tolstoy",
+        "departure_at": "2019-07-29 06:01",
+        "arrival_at": "2019-07-29 13:30" ,
+        "price": "80",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-29 06:40",
+        "arrival_at": "2019-07-29 10:07" ,
+        "price": "65",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-30 15:30",
+        "arrival_at": "2019-07-29 18:57" ,
+        "price": "85",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Lev Tolstoy",
+        "departure_at": "2019-07-30 06:01",
+        "arrival_at": "2019-07-30 13:30" ,
+        "price": "80",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Allegro",
+        "departure_at": "2019-07-30 06:40",
+        "arrival_at": "2019-07-30 10:07" ,
+        "price": "65",
+        "origin": "LED",
+        "destination": "HEL"
+    }
+]

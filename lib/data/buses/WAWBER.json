@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-27 06:30",
+        "arrival_at": "2019-07-27 13:30" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-27 23:55",
+        "arrival_at": "2019-07-28 07:15" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-28 06:30",
+        "arrival_at": "2019-07-28 13:30" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-28 23:55",
+        "arrival_at": "2019-07-29 07:15" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Flixbus",
+        "departure_at": "2019-07-29 11:10",
+        "arrival_at": "2019-07-29 18:50" ,
+        "price": "23",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Flixbus",
+        "departure_at": "2019-07-29 09:05",
+        "arrival_at": "2019-07-29 17:00" ,
+        "price": "23",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-30 06:30",
+        "arrival_at": "2019-07-30 13:30" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-30 23:55",
+        "arrival_at": "2019-07-31 07:15" ,
+        "price": "40",
+        "origin": "WAW",
+        "destination": "BER"
+    }
+]

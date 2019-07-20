@@ -1,0 +1,98 @@
+[
+    {
+        "name": "989",
+        "departure_at": "2019-07-27 10:20",
+        "arrival_at": "2019-07-28 02:00" ,
+        "price": "63",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "081",
+        "departure_at": "2019-07-27 16:15",
+        "arrival_at": "2019-07-28 04:57" ,
+        "price": "65",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "023",
+        "departure_at": "2019-07-27 18:11",
+        "arrival_at": "2019-07-28 06:37" ,
+        "price": "55",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "989",
+        "departure_at": "2019-07-28 10:20",
+        "arrival_at": "2019-07-29 02:00" ,
+        "price": "63",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "081",
+        "departure_at": "2019-07-28 16:15",
+        "arrival_at": "2019-07-29 04:57" ,
+        "price": "60",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Premium",
+        "departure_at": "2019-07-28 20:00",
+        "arrival_at": "2019-07-29 07:10" ,
+        "price": "57",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "989",
+        "departure_at": "2019-07-29 10:20",
+        "arrival_at": "2019-07-30 02:00" ,
+        "price": "50",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "081",
+        "departure_at": "2019-07-29 16:15",
+        "arrival_at": "2019-07-30 04:57" ,
+        "price": "55",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "Premium",
+        "departure_at": "2019-07-29 20:00",
+        "arrival_at": "2019-07-30 07:10" ,
+        "price": "57",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "023",
+        "departure_at": "2019-07-29 18:11",
+        "arrival_at": "2019-07-30 06:37" ,
+        "price": "60",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "989",
+        "departure_at": "2019-07-30 10:20",
+        "arrival_at": "2019-07-31 02:00" ,
+        "price": "50",
+        "origin": "KZN",
+        "destination": "MOW"
+    },
+    {
+        "name": "081",
+        "departure_at": "2019-07-30 16:15",
+        "arrival_at": "2019-07-31 04:57" ,
+        "price": "55",
+        "origin": "KZN",
+        "destination": "MOW"
+    }
+]

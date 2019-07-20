@@ -1,0 +1,98 @@
+[
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-27 15:30",
+        "arrival_at": "2019-07-27 19:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-27 10:30",
+        "arrival_at": "2019-07-27 14:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-27 09:30",
+        "arrival_at": "2019-07-27 13:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "Eurolines",
+        "departure_at": "2019-07-27 06:30",
+        "arrival_at": "2019-07-27 11:00" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "ArdaTur",
+        "departure_at": "2019-07-28 13:35",
+        "arrival_at": "2019-07-28 18:15" ,
+        "price": "25",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-28 09:30",
+        "arrival_at": "2019-07-28 13:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "Eurolines",
+        "departure_at": "2019-07-28 06:30",
+        "arrival_at": "2019-07-28 11:00" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "ArdaTur",
+        "departure_at": "2019-07-29 13:35",
+        "arrival_at": "2019-07-29 18:15" ,
+        "price": "25",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-29 09:30",
+        "arrival_at": "2019-07-29 13:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "Eurolines",
+        "departure_at": "2019-07-29 06:30",
+        "arrival_at": "2019-07-29 11:00" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "RegioJet",
+        "departure_at": "2019-07-30 09:30",
+        "arrival_at": "2019-07-30 13:45" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    },
+    {
+        "name": "Eurolines",
+        "departure_at": "2019-07-30 06:30",
+        "arrival_at": "2019-07-30 11:00" ,
+        "price": "28",
+        "origin": "PRG",
+        "destination": "BER"
+    }
+]

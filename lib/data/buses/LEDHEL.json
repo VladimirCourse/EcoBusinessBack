@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-27 07:15",
+        "arrival_at": "2019-07-27 15:00" ,
+        "price": "19",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-27 21:15",
+        "arrival_at": "2019-07-28 04:50" ,
+        "price": "23",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-27 23:00",
+        "arrival_at": "2019-07-28 06:00" ,
+        "price": "41",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-28 07:15",
+        "arrival_at": "2019-07-28 15:00" ,
+        "price": "23",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-28 23:00",
+        "arrival_at": "2019-07-29 06:00" ,
+        "price": "41",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-29 07:15",
+        "arrival_at": "2019-07-29 15:00" ,
+        "price": "19",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-29 21:15",
+        "arrival_at": "2019-07-30 04:50" ,
+        "price": "23",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-29 23:00",
+        "arrival_at": "2019-07-30 06:00" ,
+        "price": "41",
+        "origin": "LED",
+        "destination": "HEL"
+    },
+    {
+        "name": "Infobus",
+        "departure_at": "2019-07-30 07:15",
+        "arrival_at": "2019-07-30 15:00" ,
+        "price": "19",
+        "origin": "LED",
+        "destination": "HEL"
+    }
+]
